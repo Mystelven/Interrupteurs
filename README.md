@@ -1,14 +1,19 @@
 # Interrupteurs
-Le Lights Out: un petit jeu mathématique
+Le Lights Out: un petit jeu mathématique est sous licence GNU GPL.
+Il peut être modifié, mais les modifications doivent être renvoyées à :
 
-                    GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+# Valentin Montmirail (voici l'adresse mail pour les modifications : valentin.montmirail@gmail.com)
+# Florent Dewez
+# Thibault Defourneau
+
+GNU GENERAL PUBLIC LICENSE
+Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
-                            Preamble
+Preamble
 
   The GNU General Public License is a free, copyleft license for
 software and other kinds of works.
