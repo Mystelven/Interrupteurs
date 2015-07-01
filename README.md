@@ -1,14 +1,13 @@
 # Lights Out: A little mathematic game
 
-Le Lights Out: un petit jeu mathématique est sous licence GNU GPL v3.
 
-Il peut être modifié, mais les modifications doivent être renvoyées à :
+## Authors and Contributors
 
-* Florent Dewez
+* Florent Dewez from LPP, Lille, FRANCE.
 
-* Thibault Defourneau
+* Thibault Defourneau from LAMAV, Valenciennes, FRANCE.
 
-* Valentin Montmirail (voici l'adresse mail pour les modifications : valentin.montmirail@gmail.com)
+* [Valentin Montmirail](http://mailto:valentin.montmirail@gmail.com) from CRIL, Lens, FRANCE.
 
 # License
 
