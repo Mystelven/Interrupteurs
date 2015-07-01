@@ -1,8 +1,7 @@
-# Lights Out  
-Lights Out: A little mathematic game
+# Lights Out: A little mathematic game
 
 
-# Authors and Contributors
+## Authors and Contributors
 
 * Florent Dewez from LPP, Lille, FRANCE.
 * Thibault Defourneau from LAMAV, Valenciennes, FRANCE.
