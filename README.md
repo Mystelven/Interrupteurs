@@ -3,9 +3,9 @@
 
 ## Authors and Contributors
 
-* Florent Dewez from LPP, Lille, FRANCE.
+* [Florent Dewez](http://math.univ-lille1.fr/~dewez/) from LPP, Lille, FRANCE.
 
-* Thibault Defourneau from LAMAV, Valenciennes, FRANCE.
+* [Thibault Defourneau](thibault.defourneau@etu.univ-valenciennes.fr) from LAMAV, Valenciennes, FRANCE.
 
 * [Valentin Montmirail](http://valentin-montmirail.com) from CRIL, Lens, FRANCE.
 
